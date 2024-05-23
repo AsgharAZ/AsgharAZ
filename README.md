@@ -5,7 +5,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&duration=2000&pause=1000&color=FFA600&center=true&multiline=true&width=650&height=80&lines=Computer+Engineering+Student+at+Habib+University" alt="Typing SVG" />
 </a>
 <br/>
-
 <!-- badges -->
 <a href="https://drive.google.com/file/d/1-oHP_oR_vN-1NY-nlNa6kLVMW4mBv4Cj/view?usp=drive_link">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat&logo=adobe">
