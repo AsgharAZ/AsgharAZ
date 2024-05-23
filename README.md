@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Syed Asghar Abbas Zaidi</h1>
 <h3 align="center">An aspiring Computer Engineer from Pakistan</h3>
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTFlbWluaDd1ODkxbTF0ZjQwYnRsd3h4eWU5ZDl1ZHVmMmlqMWhzcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/o0vwzuFwCGAFO/giphy.gif" width="100"/>
+</div>
+
 - 🌱 I’m currently learning **Game Design**
 
 - 📝 I regularly write articles on [https://saaz01.wordpress.com/](https://saaz01.wordpress.com/)
