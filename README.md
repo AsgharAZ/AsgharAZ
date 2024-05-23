@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Syed Asghar Abbas Zaidi</h1>
 <h3 align="center">An aspiring Computer Engineer from Pakistan</h3>
 
+<p align="center">
+<a href="https://github.com/AsgharAZ">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&duration=2000&pause=1000&color=FFA600&center=true&multiline=true&width=650&height=80&lines=Syed+Asghar+Abbas+Zaidi;Computer+Engineering+Student+at+Habib+University" alt="Typing SVG" />
+</a>
+<br/>
+  
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTFlbWluaDd1ODkxbTF0ZjQwYnRsd3h4eWU5ZDl1ZHVmMmlqMWhzcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/o0vwzuFwCGAFO/giphy.gif" width="100"/>
 </div>
@@ -21,11 +27,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asgharaz&show_icons=true&locale=en" alt="asgharaz" /></p>
 
 
-<p align="center">
-<a href="https://github.com/AsgharAZ">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&duration=2000&pause=1000&color=FFA600&center=true&multiline=true&width=650&height=80&lines=Syed+Asghar+Abbas+Zaidi;Computer+Engineering+Student+at+Habib+University" alt="Typing SVG" />
-</a>
-<br/>
 
 <!-- badges -->
 <a href="https://drive.google.com/file/d/1-oHP_oR_vN-1NY-nlNa6kLVMW4mBv4Cj/view?usp=drive_link">
