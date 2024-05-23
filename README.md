@@ -12,7 +12,7 @@
 
 <a href="https://www.linkedin.com/in/syed-asghar-abbas-zaidi-866589241/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=linkedin">
-</a>
+</a> 
 
 <a href="mailto:s.aazaidi2001@gmail.com"  target="_blank">
     <img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white">
