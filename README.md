@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="https://github.com/AsgharAZ">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&duration=2000&pause=1000&color=FFA600&center=true&multiline=true&width=650&height=80&lines=Computer+Engineering+Student+at+Habib+University" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&duration=2000&pause=1000&color=FFA600&center=true&multiline=true&width=650&height=30&lines=Computer+Engineering+Student+at+Habib+University" alt="Typing SVG" />
 </a>
 <br/>
 <!-- badges -->
