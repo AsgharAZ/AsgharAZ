@@ -54,7 +54,7 @@
 
 ## Notable Contributions
 
-- [Audio Equalizer Using FIR Filters](https://github.com/samiyaalizaidi/Equalizer) - Fixed Point FPGA-based Hardware Implementation of a 32-tap Low Pass FIR Filter for Audio Applications
+- [FPGA-Based-Rock-Paper-Scissors-Arcade-with-Animated-Doll](https://github.com/AsgharAZ/FPGA-Based-Rock-Paper-Scissors-Arcade-with-Animated-Doll--F.U.M.O.-) - Developed on Basys-3, we developed an arcade game where players compete in rock-paper-scissors against a computer. The VGA monitor shows the game status, and the doll mirrors the results with celebratory or sulking animations using servo motors attached to its' arm.
 
 - [Vision Based Pick & Place Workflow of Phantom X Pincher Arm](https://github.com/AsgharAZ/RoboticArm-Vision-PickPlace-PhantomX) - Investigation into vision-based pick-and-place system using Phantom X Pincher arm and MATLAB.
 
