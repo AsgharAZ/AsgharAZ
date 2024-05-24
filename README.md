@@ -58,7 +58,7 @@
 
 - [Vision Based Pick & Place Workflow of Phantom X Pincher Arm](https://github.com/AsgharAZ/RoboticArm-Vision-PickPlace-PhantomX) - Investigation into vision-based pick-and-place system using Phantom X Pincher arm and MATLAB.
 
-- [Find Cheapest Flight Application](https://github.com/samiyaalizaidi/Find-Cheapest-Flight) - A simple application to find the cheapest available flights from the dataset given.
+- [Path-Finding Algorithms Visualization](https://github.com/AsgharAZ/Pathfinding-Visualization-Djisktra-vs-A_star) - A simple GUI Project for visualizing pathfinding algorithms like Dijkstra's and A*. Users can interactively create obstacles, set start and target points, and observe the algorithms' exploration and shortest path finding, and develop an instinctive understanding on how both these algorithms work.
 
 - [Platform Gamer](https://github.com/burhanuddin6/2D_Game) - A Game trying to replicate infamous Jump King, developed using SDL Library on C++
 
