@@ -68,7 +68,7 @@
 - [Platform Gamer](https://github.com/burhanuddin6/2D_Game) - A Game trying to replicate infamous Jump King, developed using SDL Library on C++
 
 ----
-
+<details>
 ## 📈 My Github Stats
 <br>
 
@@ -86,6 +86,7 @@
 <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=uqs35lpn9g95ch5wttc8s060i">
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=uqs35lpn9g95ch5wttc8s060i" alt="Data Card for Spotify">
 </a>
+</details>
 <!--Currently Coding and Listening to:-->
 
 <!--[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11159336621&cover_image=true&theme=novatorem&show_offline=true&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/3157ydsm2trbklsw7xieue57ckky) -->
