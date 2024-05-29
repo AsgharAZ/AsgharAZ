@@ -81,8 +81,11 @@
 
 ![](https://streak-stats.demolab.com/?user=AsgharAZ&theme=midnight-purple)
 
-
 <br>
+
+<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=uqs35lpn9g95ch5wttc8s060i">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=uqs35lpn9g95ch5wttc8s060i" alt="Data Card for Spotify">
+</a>
 <!--Currently Coding and Listening to:-->
 
 <!--[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11159336621&cover_image=true&theme=novatorem&show_offline=true&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/3157ydsm2trbklsw7xieue57ckky) -->
