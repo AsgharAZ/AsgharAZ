@@ -65,7 +65,7 @@
 
 - [Path-Finding Algorithms Visualization](https://github.com/AsgharAZ/Pathfinding-Visualization-Djisktra-vs-A_star) - A simple GUI Project for visualizing pathfinding algorithms like Dijkstra's and A*. Users can interactively create obstacles, set start and target points, and observe the algorithms' exploration and shortest path finding, and develop an instinctive understanding on how both these algorithms work.
 
-- [Platform Gamer](https://github.com/burhanuddin6/2D_Game) - A Game trying to replicate infamous Jump King, developed using SDL Library on C++
+- [Platform Gamer](https://github.com/burhanuddin6/2D_Game) - A Game that tried to replicate "Jump King" for self-study, developed using SDL Library on C++
 
 ----
 <details>
