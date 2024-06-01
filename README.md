@@ -43,9 +43,9 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTFlbWluaDd1ODkxbTF0ZjQwYnRsd3h4eWU5ZDl1ZHVmMmlqMWhzcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/o0vwzuFwCGAFO/giphy.gif" width="100"/>
 </div>
 
-- 📡 Researcher: Currently conducting independent research regarding Leveraging Gamification for Antibiotic Awareness, focusing on innovative and efficient design methodologies. Have also previously worked with Dr.Farhan for RTK implementation on an android app.
+- 📡 Researcher: Currently conducting independent research regarding Leveraging Gamification for Antibiotic Awareness, focusing on innovative and efficient design methodologies. Have also previously worked with Dr.Farhan for RTK implementation on an android app
 - 📝 I regularly write articles on [https://saaz01.wordpress.com/](https://saaz01.wordpress.com/)
-- 💡 Interested in Data Communication/Networking, microchip design and Game design.
+- 💡 Interested in Data Communication/Networking, microchip design and Game design
 - 💬 Ask me about **Vivado Verilog**
 - 📫 How to reach me **s.aazaidi2001@gmail.com**
 - 📄 Know about my experiences on [Linkedin!](https://www.linkedin.com/in/syed-asghar-abbas-zaidi-866589241/w)
