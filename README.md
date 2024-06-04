@@ -45,7 +45,7 @@
 
 - 📡 Researcher: Currently conducting independent research regarding Leveraging Gamification for Antibiotic Awareness, focusing on innovative and efficient design methodologies. Have also previously worked with Dr.Farhan for RTK implementation on an android app.
 - 📝 I regularly write articles on [https://saaz01.wordpress.com/](https://saaz01.wordpress.com/)
-- 💡 Interested in Data Communication/Networking, Microchip design and Game design.
+- 💡 Interested in Data Communication/Networking, Microchip design and Game design
 - 💬 Ask me about **Vivado Verilog**.
 - 📫 How to reach me **s.aazaidi2001@gmail.com**
 - 📄 Know about my experiences on [Linkedin!](https://www.linkedin.com/in/syed-asghar-abbas-zaidi-866589241/w)
